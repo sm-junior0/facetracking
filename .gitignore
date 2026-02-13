@@ -6,3 +6,5 @@ data/db/enroll/**/*.jpg
 data/db/.gitkeep
 
 .idea/
+config.bat
+node_modules

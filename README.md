@@ -125,13 +125,13 @@ python src/websocket_backend.py
 Open the dashboard in browser:
 
 ```text
-http://157.173.101.159:9404/
+http://157.173.101.159:9404/src/dashboard.html
 ```
 
 WebSocket URL should be configured to:
 
 ```text
-ws://157.173.101.159:9404
+ws://157.173.101.159:9404/src/dashboard.html
 ```
 
 ## MQTT Topic Structure
